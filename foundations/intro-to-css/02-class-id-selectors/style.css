@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.styles-impar {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font-diferent {
+    font-size: 24px;
+}
+
+#number-two{
+    color: blue;
+    font-size: 36px
+}
+
+#number-four {
+    background-color: greenyellow;
+    font-weight: bold;
+}
